@@ -1,4 +1,5 @@
-<h1 align="center">Welcome to my Github! I'm Umamah ![image](https://github.com/UmamahBegg/UmamahBegg/assets/68920308/1e2fb7f1-d819-492b-a967-3f9402014168)
+<h1 align="center">Welcome to my Github! I'm Umamah  ![image](https://github.com/UmamahBegg/UmamahBegg/assets/68920308/3bbc0e25-db9d-4381-b23f-0bb60d7b23ad)
+)!
 </h1>
 <h3 align="left">I’m a Junior Full Stack developer, who is passionate about using technology to bring opportunities to people worldwide, regardless of their background. </h3>
   
