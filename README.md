@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umamah!</h1>
+<h1 align="center">Hi, I'm Umamah!</h1>
 <h3 align="left">I’m a Junior Full Stack developer, who is passionate about using technology to bring opportunities to people worldwide, regardless of their background. </h3>
   
 <p align="left">Technology has the power to uplift people out of poverty and empower them to reach their full potential, and it’s my dream to be a part of that! </p>
