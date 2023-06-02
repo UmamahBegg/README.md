@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Umamah!</h1>
 <h3 align="left">I’m a Junior Full Stack developer, who is passionate about using technology to bring opportunities to people worldwide, regardless of their background. </h3>
   
-<h3 align="left">Technology has the power to uplift people out of poverty and empower them to reach their full potential, and it’s my dream to be a part of that! </h3>
+<p align="left">Technology has the power to uplift people out of poverty and empower them to reach their full potential, and it’s my dream to be a part of that! </p>
   
-<h3 align="left">Right now I’m working on developing my skills so that I can start to create innovative solutions that address societal issues like improving healthcare in remote areas, enhancing education for underprivileged students, and creating sustainable technologies for combating climate change.</h3>
+<p align="left">Right now I’m working on developing my skills so that I can start to create innovative solutions that address societal issues like improving healthcare in remote areas, enhancing education for underprivileged students, and creating sustainable technologies for combating climate change.</p>
 
-<h3 align="center">I hope you enjoy my page! Remember to stay curious, keep learning, and explore the potential of technology to make a positive impact!</h3>
+<p align="center">I hope you enjoy my page! Remember to stay curious, keep learning, and explore the potential of technology to make a positive impact!</p>
 
 - 📫 How to reach me **umamah.begg@gmail.com**
 
